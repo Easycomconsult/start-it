@@ -1,0 +1,32 @@
+* {
+    text-align: right;
+}
+p {
+    color: blue;
+}
+.push{
+    color: blue;
+}
+
+
+
+
+
+body {
+    background-image: url(saibou1.jpg);
+    background-size: cover;
+}
+
+h1
+{
+    color: red;
+    text-align: center;
+    border: 5px solid  blue;
+    display:flex;
+    background-color: pink;
+    
+}
+.webtext{
+    color: blue;
+    
+}
